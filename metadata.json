@@ -1,0 +1,6 @@
+{
+  "name": "Sentra AI",
+  "description": "Think Before You Trust. AI-powered digital safety assistant for identifying scams, phishing messages, suspicious URLs, fraudulent screenshots, and fake job offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
